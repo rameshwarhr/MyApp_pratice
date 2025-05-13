@@ -2,3 +2,4 @@ some contet in info file
 aaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbb
 ccccccccccccccccccccccc
+ooooooooooooooooooooooo
