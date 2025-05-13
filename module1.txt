@@ -1,0 +1,7 @@
+
+
+version v.1.0.0
+
+aaaaaaaaaaaaaaaaaaaaaaa
+some text form local master
+
